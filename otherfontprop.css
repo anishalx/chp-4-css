@@ -1,0 +1,9 @@
+h3{
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: 400;
+}
+p{
+    font-variant: small-caps;
+    /* font-family: serif; */
+}

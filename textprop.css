@@ -1,0 +1,12 @@
+p{
+    background-color: red;
+    width: 1134px;
+    height: 1145px;
+    color: white;
+    text-decoration: underline rgb(13, 93, 232) 8px;
+    text-transform: capitalize;
+    line-height: 40px;
+    font-size: 30px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Train One', cursive;
+}

@@ -1,0 +1,25 @@
+.box1{
+    margin: 6px;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 231px;
+    height: 34px;
+    background-color: red;
+    display:inline-block
+    
+
+}
+.box2{
+    width: 231px;
+    height: 34px;
+    background-color: aqua;
+    display:inline
+}
+.box1{
+    text-align:center;
+    /* for remove
+    display: none;
+    for hide  */
+    /* visibility:hidden */
+}
